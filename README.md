@@ -17,9 +17,9 @@
 2. Wired NIC (Cables use)
 
 #### Hub
-***Hub is a central device that splits the network connection into multiple devices***
+*Hub is a central device that splits the network connection into multiple devices*
 
 #### Switches
-***Switch is a networking device that groups all the devices over the network to transfer the data to another device***
+*Switch is a networking device that groups all the devices over the network to transfer the data to another device*
 
 
